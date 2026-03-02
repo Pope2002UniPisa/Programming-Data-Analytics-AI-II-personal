@@ -14,6 +14,8 @@ from sklearn.model_selection import learning_curve
 from sklearn.model_selection import cross_val_predict
 from sklearn.model_selection import validation_curve
 
+# Lo ha caricato?
+
 
 
 
